@@ -1,0 +1,7 @@
+def calculer_y(x):
+    return 97 - (x % 97)
+
+# Exemple d'utilisation
+#x = 150
+#y = calculer_y(x)
+#print(f"Pour x = {x}, y = {y}")
